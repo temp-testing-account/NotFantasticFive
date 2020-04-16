@@ -91,7 +91,7 @@ img{
 .box4{
 	float: right;
 	width: 49%;
-	border: dotted;
+	border: dotted; 
 	border-color: yellow;
 }
 
@@ -102,5 +102,9 @@ img{
 	margin-top: 100px;
 	margin-left: 200px;
 	margin-right: 500px;
+}
+
+img:hover {
+	display:none;
 }
 
