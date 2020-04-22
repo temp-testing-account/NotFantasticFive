@@ -41,7 +41,7 @@ img{
 	position: sticky;
 	border-radius: 40px;
 	float: right;
-	
+		padding: 10px;
 }
 
 .abdul:hover{
@@ -80,7 +80,6 @@ img{
 .box1{
 	display: flex;
 	flex-flow: row wrap;
-
 	justify-content: center;
 }
 
