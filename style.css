@@ -1,37 +1,44 @@
 body{
-	background-image: url('background2	.jpg');
+	background-image: url('bg3.jpg');
 	margin-left: 45px;
 	margin-bottom: 100px;
-	margin-right: 20px;
+	margin-right: 45px;
 	background-attachment: fixed;
 	background-size: cover;
 }
 
 h1{
-	color:yellow;
-	margin-left: 500px;
-	margin-right:565px;
-	border-style:dotted;
-	padding-right:0px;
-	padding-left:22px;
+	color:#95389e;
+	width: 350px;
+	margin-left: 450px;
+	text-align: center;
+	border-bottom: groove;
+	border-bottom-width: 10px;
+	border-color: white;
 	font-family: courier;
+	font-size: 2.5em;
+	
 }
 
 li{
-	color:red;
+	color:#43d8c9;
 	font-family:Ink Free;
 	font-size:1.3em;
 	list-style-image: url('axe.png');
 }
 
 h2{
-	color:purple;
-	font-size:2em
+	color:#95389e;
+	font-size:2em;
 }
 
 p{
 	color:white;
 	font-size: 1.5em;
+	margin-left: 355px;
+	margin-right: 355px;
+	/*width: 00px;*/
+	text-align: center;
 }
 
 img{
@@ -71,7 +78,7 @@ img{
 
 .box{
 	border: dotted;
-	border-color: yellow;
+	border-color: #fcbf1e;
 	margin: 20px;
 	width: 500px;
 	height: 450px;
