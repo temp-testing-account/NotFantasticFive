@@ -10,7 +10,7 @@ body{
 h1{
 	color:#95389e;
 	width: 350px;
-	margin-left: 450px;
+	margin:auto;
 	text-align: center;
 	border-bottom: groove;
 	border-bottom-width: 10px;
